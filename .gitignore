@@ -1,0 +1,5 @@
+# Raw MoSPI data and generated datasets are not tracked
+raw/*
+!raw/.gitkeep
+output/
+*.dta
